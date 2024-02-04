@@ -1,29 +1,29 @@
 {
   "files": {
     "main.css": "/my-portfolio/static/css/main.da7e5ade.css",
-    "main.js": "/my-portfolio/static/js/main.6b01491c.js",
+    "main.js": "/my-portfolio/static/js/main.7ffe6d9b.js",
     "static/js/415.4d6acbeb.chunk.js": "/my-portfolio/static/js/415.4d6acbeb.chunk.js",
     "static/js/787.1ed0c42c.chunk.js": "/my-portfolio/static/js/787.1ed0c42c.chunk.js",
     "static/media/home.png": "/my-portfolio/static/media/home.f069b30057e62f21e751.png",
-    "static/media/Thanu.png": "/my-portfolio/static/media/Thanu.426de52b58032bc25647.png",
     "static/media/supermarket.png": "/my-portfolio/static/media/supermarket.e82464c5b27feaf70fa7.png",
     "static/media/home-bg.png": "/my-portfolio/static/media/home-bg.9b930bee8baf20c980ee.png",
     "static/media/ThanushanVijayaratnam.pdf": "/my-portfolio/static/media/ThanushanVijayaratnam.3daebb937720d9c91ece.pdf",
     "static/media/digiex.png": "/my-portfolio/static/media/digiex.7f0d00967ecbc2cfdb41.png",
+    "static/media/about.jpeg": "/my-portfolio/static/media/about.21e53b835c414447df33.jpeg",
+    "static/media/Thanu.jpeg": "/my-portfolio/static/media/Thanu.d6f7d88be1647d0f76dc.jpeg",
     "static/media/socialmedia.JPG": "/my-portfolio/static/media/socialmedia.c6a67efb054e343e487e.JPG",
     "static/media/chatbot.png": "/my-portfolio/static/media/chatbot.70402e1b1cd70ea00e12.png",
-    "static/media/about.png": "/my-portfolio/static/media/about.aee0f771fbfc1e7b8fa8.png",
     "static/media/micro-finance-cover.jpg": "/my-portfolio/static/media/micro-finance-cover.272ebe481fd868f8ecec.jpg",
     "static/media/Autoaum.jpg": "/my-portfolio/static/media/Autoaum.008d734ef703ca34e4d6.jpg",
     "static/media/pre.svg": "/my-portfolio/static/media/pre.43acc8bd270ee875d433.svg",
     "index.html": "/my-portfolio/index.html",
     "main.da7e5ade.css.map": "/my-portfolio/static/css/main.da7e5ade.css.map",
-    "main.6b01491c.js.map": "/my-portfolio/static/js/main.6b01491c.js.map",
+    "main.7ffe6d9b.js.map": "/my-portfolio/static/js/main.7ffe6d9b.js.map",
     "415.4d6acbeb.chunk.js.map": "/my-portfolio/static/js/415.4d6acbeb.chunk.js.map",
     "787.1ed0c42c.chunk.js.map": "/my-portfolio/static/js/787.1ed0c42c.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.da7e5ade.css",
-    "static/js/main.6b01491c.js"
+    "static/js/main.7ffe6d9b.js"
   ]
 }
